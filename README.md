@@ -1,2 +1,2 @@
 # devops 1
-devops developers 
+his repository contains Registration form that allows users to insert his,her credecials 
